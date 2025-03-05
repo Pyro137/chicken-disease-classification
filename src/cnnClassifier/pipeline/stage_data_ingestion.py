@@ -1,7 +1,6 @@
-from cnnClassifier.entity.config_entity import DataIngestionConfig
 from cnnClassifier.utils.configuration import ConfigurationManager
 from cnnClassifier.components.data_ingestion import DataIngestion
-from cnnClassifier import logger
+
 
 
 
